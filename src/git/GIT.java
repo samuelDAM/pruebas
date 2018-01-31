@@ -5,18 +5,16 @@
  */
 package git;
 
-/**
- *
- * @author dam
- */
 public class GIT {
 
-    /**
-     * @param args the command line arguments
+    /*
+     * @parm rguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        Calculador c=new Calculador(4,2);
+     // System.out.printlnczcx.
+
     }
     
 }
